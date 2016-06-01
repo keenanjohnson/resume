@@ -1,5 +1,7 @@
 # Keenan Johnson, The Resume
 
+![The Resume](https://raw.githubusercontent.com/keenanjohnson/resume/master/resume.png)
+
 Based on Debarghya Das' excellent resume template
 
 https://github.com/deedy/Deedy-Resume
